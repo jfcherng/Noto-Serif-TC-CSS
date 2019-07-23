@@ -1,0 +1,22 @@
+{
+  "name": "noto-serif-tc",
+  "version": "4.0.0",
+  "description": "(Noto Serif TC) Optimized CSS file and font files for local host.",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfcherng/Noto-Serif-TC-CSS.git"
+  },
+  "keywords": [
+    "font",
+    "noto-serif"
+  ],
+  "author": "Jack Cherng <jfcherng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfcherng/Noto-Serif-TC-CSS/issues"
+  },
+  "homepage": "https://github.com/jfcherng/Noto-Serif-TC-CSS#readme"
+}
