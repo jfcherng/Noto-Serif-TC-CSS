@@ -1,3 +1,4 @@
+FONT_TYPE = "Serif"
 FONT_LANG = "TC"
 
 FONT_STYLES = {
